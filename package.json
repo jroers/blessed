@@ -1,0 +1,25 @@
+{
+  "name": "blessed",
+  "version": "1.0.0",
+  "description": "Because repos are #blessed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jroers/blessed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jroers/blessed/issues"
+  },
+  "homepage": "https://github.com/jroers/blessed#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
